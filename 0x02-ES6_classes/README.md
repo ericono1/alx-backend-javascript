@@ -35,6 +35,3 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 10. Vroom
 * [x] 11. EVCar
 
-## Software engineer
-Seid Hamid 
-:octocat: [GitHub](https://github.com/radu2022/)
